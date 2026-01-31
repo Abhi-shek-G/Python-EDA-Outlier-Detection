@@ -1,0 +1,4 @@
+1. Housing prices are right-skewed with several extreme high-value properties.
+2. Area shows the strongest positive correlation with price.
+3. Outliers were detected using the IQR method and handled using capping to reduce skewness.
+4. No significant missing values were found in the dataset.
